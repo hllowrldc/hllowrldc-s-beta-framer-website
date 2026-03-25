@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.CSVa3Jaz.mjs";function t(e,t){return{breakpoints:[{hash:`vy97f5`}],description:`oh well`,elements:{},framerSearch:{index:!0},robots:`max-image-preview:large`,serializationId:`framer-7yK0a`,title:`hllowrld Beta website`,viewport:`width=1200`}}var n,r,i=e((()=>{n=1,r={exports:{metadataVersion:{type:`variable`,annotations:{framerContractVersion:`1`}},default:{type:`function`,annotations:{framerContractVersion:`1`}},__FramerMetadata__:{type:`variable`}}}}));export{n as i,i as n,t as r,r as t};
+//# sourceMappingURL=S8ArM_dpN.BixLbFPB.mjs.map
