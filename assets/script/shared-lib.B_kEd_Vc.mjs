@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.B3Ac26FU.mjs";function t(e,t){return{description:`Made with Framer`,robots:`max-image-preview:large`,title:`My Framer Site`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.B_kEd_Vc.mjs.map
